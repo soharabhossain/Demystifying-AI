@@ -18,5 +18,9 @@ https://medium.com/@soharab.hossain/demystifying-generative-ai-a-comprehensive-i
 Implications of generative AI in Asia-Pacific education, its potential benefits, ethical considerations, and strategies for responsible integration.
 https://www.unesco.org/en/articles/how-generative-ai-reshaping-education-asia-pacific
 
+### 4. Exploring the Role of Generative AI in Personalised Learning and Curriculum Development
+https://www.iffort.com/blog/2023/04/13/generative-ai-role-in-personalised-learning/
+
+
 
 
