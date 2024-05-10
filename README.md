@@ -21,6 +21,9 @@ https://www.unesco.org/en/articles/how-generative-ai-reshaping-education-asia-pa
 ### 4. Exploring the Role of Generative AI in Personalised Learning and Curriculum Development
 https://www.iffort.com/blog/2023/04/13/generative-ai-role-in-personalised-learning/
 
+### 5. How Will Generative AI Affect Higher Education?
+https://teaching.cornell.edu/generative-artificial-intelligence
+
 
 
 
