@@ -14,3 +14,9 @@ Generative AI isn’t confined to executing preordained tasks. It represents a s
 
 https://medium.com/@soharab.hossain/demystifying-generative-ai-a-comprehensive-introduction-5eb8e1735d5c
 
+### 3. How generative AI is reshaping education in Asia-Pacific
+Implications of generative AI in Asia-Pacific education, its potential benefits, ethical considerations, and strategies for responsible integration.
+https://www.unesco.org/en/articles/how-generative-ai-reshaping-education-asia-pacific
+
+
+
