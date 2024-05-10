@@ -16,12 +16,17 @@ https://medium.com/@soharab.hossain/demystifying-generative-ai-a-comprehensive-i
 
 ### 3. How generative AI is reshaping education in Asia-Pacific
 Implications of generative AI in Asia-Pacific education, its potential benefits, ethical considerations, and strategies for responsible integration.
+
 https://www.unesco.org/en/articles/how-generative-ai-reshaping-education-asia-pacific
 
 ### 4. Exploring the Role of Generative AI in Personalised Learning and Curriculum Development
+As technology continues to revolutionise every aspect of our lives, it’s no surprise that education is also undergoing a major transformation. Personalised learning and curriculum development have emerged as key areas of focus for educators looking to improve student outcomes and prepare students for the future.
+
 https://www.iffort.com/blog/2023/04/13/generative-ai-role-in-personalised-learning/
 
 ### 5. How Will Generative AI Affect Higher Education?
+Since the release of new generative artificial intelligence (AI) tools, including ChatGPT, we have all been navigating our way through both the landscape of AI in education and its implications for teaching. As we adapt to these quickly evolving tools and observe how students are using them, many of us are still formulating our own values around what this means for our classes. 
+
 https://teaching.cornell.edu/generative-artificial-intelligence
 
 
